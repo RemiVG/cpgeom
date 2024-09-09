@@ -2,9 +2,10 @@
 
 Repository initié en local et qui sera déposé sur GitHub
 
->Le format **Markdown** est le langage privilégié de rédaction de la documentation
+>[!IMPORTANT]
+Le format **Markdown** est le langage privilégié de rédaction de la documentation
 
-![Logo Git](D:\rvg\2024-09-09_git\exo_git\img\Git-Logo-667930395.png)
+![Logo Git](.\img\Git-Logo-667930395.png)
 
 ## Les étapes 
 
