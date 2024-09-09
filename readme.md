@@ -22,3 +22,4 @@ touch readme.md
 - Edition du fichier avec Notepad ou votre IDE préféré
 
 - Essai de modif pour un nouveau commit
+![Logo More](./img/More.png)
